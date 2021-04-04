@@ -12,6 +12,7 @@ I am implementing a detection algorithm with a classification data set that does
 * keras 2.1.1
 * opencv 3.3.0
 
+
 ## Usage
 
 The procedure to build detector is as follows:
